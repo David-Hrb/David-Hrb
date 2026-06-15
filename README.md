@@ -1,4 +1,4 @@
-# Zdravím! 👋
+# Welcome! 👋
 
 <div align="center">
 
