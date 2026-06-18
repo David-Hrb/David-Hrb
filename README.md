@@ -14,10 +14,10 @@
 
 ```ts
 const david = {
-  role:       "Full-Stack Developer & Game Developer",
+  role:       "Student focusing in Full-Stack Development & Game Development",
   location:   "Czech Republic 🇨🇿",
-  building:   ["Vue 3 web apps", "Unity RPGs", "3D React experiences"],
-  passions:   ["Clean architecture", "Game design", "Procedural generation"],
+  building:   ["Nuxt and Vue Websited", "Games in Unity", "Application"],
+  passions:   ["Clean design", "Game design", "Procedural generation"],
   website:    "https://www.davidhrbacek.dev/",
 };
 ```
@@ -67,18 +67,6 @@ const david = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-hrb&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=David-hrb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
 
 <div align="center">
 
