@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=David%20Hrbáček&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Creative%20Builder&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=David%20Hrbáček&fontSize=60&fontColor=a78bfa&fontAlignY=45&animation=twinkling&stroke=6366f1&strokeWidth=2&desc=Full-Stack%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20Creative%20Builder&descAlignY=65&descSize=18&descColor=c4b5fd" width="100%" />
 
-[![Website](https://img.shields.io/badge/davidhrbacek.dev-%236366f1.svg?style=for-the-badge&logo=globe&logoColor=white)](https://www.davidhrbacek.dev/)
-[![GitHub followers](https://img.shields.io/github/followers/David-hrb?style=for-the-badge&logo=github&logoColor=white&color=6366f1)](https://github.com/David-hrb)
-[![Profile views](https://komarev.com/ghpvc/?username=David-hrb&style=for-the-badge&color=6366f1)](https://github.com/David-hrb)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+David+%F0%9F%91%8B;Full-Stack+Developer+%7C+Czech+Republic+%F0%9F%87%A8%F0%9F%87%BF;Building+Vue+apps+%26+Unity+RPGs;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+
+<br/>
+
+[![Website](https://img.shields.io/badge/davidhrbacek.dev-%23a78bfa.svg?style=for-the-badge&logo=globe&logoColor=white)](https://www.davidhrbacek.dev/)
+[![GitHub followers](https://img.shields.io/github/followers/David-hrb?style=for-the-badge&logo=github&logoColor=white&color=7c3aed)](https://github.com/David-hrb)
+[![Profile views](https://komarev.com/ghpvc/?username=David-hrb&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/David-hrb)
 
 </div>
 
@@ -14,10 +18,10 @@
 
 ```ts
 const david = {
-  role:       "Student focusing in Full-Stack Development & Game Development",
+  role:       "Full-Stack Developer & Game Developer",
   location:   "Czech Republic 🇨🇿",
-  building:   ["Nuxt and Vue Websited", "Games in Unity", "Application"],
-  passions:   ["Clean design", "Game design", "Procedural generation"],
+  building:   ["Vue 3 web apps", "Unity RPGs", "3D React experiences"],
+  passions:   ["Clean architecture", "Game design", "Procedural generation"],
   website:    "https://www.davidhrbacek.dev/",
 };
 ```
@@ -68,8 +72,36 @@ const david = {
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=David-hrb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-hrb/David-hrb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-hrb/David-hrb/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/David-hrb/David-hrb/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=3000&color=6366F1&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%E2%9C%A8;Let's+build+something+awesome+together!" alt="Footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&reversal=true" width="100%" />
 
 </div>
