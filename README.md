@@ -1,7 +1,7 @@
 GitHub
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=David%20Hrbáček&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Creative%20Builder&descAlignY=58&descSize=18" width="100%" />
+<img src="images/GitHubReadMeMain.png" width="100%" />
 
 [![Website](https://img.shields.io/badge/davidhrbacek.dev-%236366f1.svg?style=for-the-badge&logo=globe&logoColor=white)](https://www.davidhrbacek.dev/)
 [![GitHub followers](https://img.shields.io/github/followers/David-hrb?style=for-the-badge&logo=github&logoColor=white&color=6366f1)](https://github.com/David-hrb)
@@ -71,6 +71,6 @@ const david = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%" />
+<img src="images/GitHubReadMeFooter.png" width="100%" />
 
 </div>
