@@ -9,22 +9,18 @@
 
   <g>
     <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 120 120" to="360 120 120" dur="3.2s" repeatCount="indefinite"/>
-
     <circle cx="120" cy="120" r="110" fill="#15151a" stroke="#000000" stroke-width="2"/>
-
     <circle cx="120" cy="120" r="102" fill="none" stroke="#2b2b33" stroke-width="1"/>
     <circle cx="120" cy="120" r="92" fill="none" stroke="#2b2b33" stroke-width="1"/>
     <circle cx="120" cy="120" r="82" fill="none" stroke="#2b2b33" stroke-width="1"/>
     <circle cx="120" cy="120" r="72" fill="none" stroke="#2b2b33" stroke-width="1"/>
     <circle cx="120" cy="120" r="62" fill="none" stroke="#2b2b33" stroke-width="1"/>
     <circle cx="120" cy="120" r="54" fill="none" stroke="#2b2b33" stroke-width="1"/>
-
     <circle cx="120" cy="120" r="46" fill="url(#labelGradient)"/>
     <circle cx="120" cy="120" r="46" fill="none" stroke="#0f0f12" stroke-width="2"/>
     <text x="120" y="112" text-anchor="middle" font-family="Verdana, sans-serif" font-size="9" font-weight="bold" fill="#ffffff">DAVID</text>
     <text x="120" y="124" text-anchor="middle" font-family="Verdana, sans-serif" font-size="9" font-weight="bold" fill="#ffffff">HRBÁČEK</text>
     <text x="120" y="136" text-anchor="middle" font-family="Verdana, sans-serif" font-size="5.5" fill="#e0e0ff">FULL-STACK • GAME DEV</text>
-
     <circle cx="120" cy="120" r="4" fill="#0a0a0a"/>
   </g>
 
